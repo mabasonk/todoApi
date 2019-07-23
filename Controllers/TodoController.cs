@@ -17,8 +17,6 @@ namespace TodoApi.Controllers
         {
             _context = context;
 
-            //this creates a new todo item if its null
-
             if(_context.TodoItems.Count() == 0)
             {
                 var toDoItem = new TodoItem{
