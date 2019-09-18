@@ -12,3 +12,17 @@ C:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.A
 C:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
 C:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
 C:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+c:\Users\mabasonx\Desktop\Personal\Dev\TodoApi\todoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb

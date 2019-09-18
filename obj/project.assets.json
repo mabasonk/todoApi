@@ -11792,29 +11792,33 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
   "packageFolders": {
     "C:\\Users\\mabasonx\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mabasonx\\Desktop\\Personal\\Dev\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\mabasonx\\Desktop\\Personal\\Dev\\TodoApi\\todoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\mabasonx\\Desktop\\Personal\\Dev\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\mabasonx\\Desktop\\Personal\\Dev\\TodoApi\\todoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\mabasonx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mabasonx\\Desktop\\Personal\\Dev\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\mabasonx\\Desktop\\Personal\\Dev\\TodoApi\\todoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\mabasonx\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -11842,6 +11846,10 @@
             "target": "Package",
             "version": "[2.1.1, )",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "target": "Package",
+            "version": "[2.1.1, )"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
